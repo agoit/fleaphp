@@ -1,0 +1,109 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size: 12px;
+	color: #597380;
+	line-height: 140%;
+	background-color: #AFC4CF;
+}
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.link {
+	color: #FC8301;
+}
+
+a.link:hover {
+	color: #874600;
+	text-decoration: underline;
+}
+
+h3 {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px 0px 10px 0px;
+}
+
+.copyright {
+	color: #666666;
+}
+
+a.copyright:hover {
+	color: #666666;
+	text-decoration: underline;
+}
+
+ul.step {
+	color: #000000;
+	margin: 0px 0px 0px 200px;
+	list-style: none;
+	padding: 0px;
+}
+
+ul.step li {
+	padding: 0px;
+	margin: 0px;
+	line-height: 100%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+li.step-current {
+	font-weight: bold;
+	list-style: url(../images/f_step.jpg);
+	padding-top: 0px !important;
+    padding-top: 6px;
+    padding-bottom: 6px;
+	vertical-align:middle;
+}
+
+.ok {
+	color: #008000;
+	font-weight: bold;
+}
+
+.error {
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.not-recommend {
+	color: #666666;
+	font-weight: bold;
+}
+
+.white {
+	color: #FFFFFF;
+}
+
+.button {
+	background: #E9ECEF;
+	border: 1px solid #CCCCCC;
+	color: #666666;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 5px 4px 3px 4px;
+}
+
+form {
+	margin: 0px;
+	padding: 0px;
+}
+
+.inputbox {
+	border: 1px solid #C0C0C0;
+	color: #0000FF;
+	padding: 2px;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+}

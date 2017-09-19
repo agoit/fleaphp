@@ -1,0 +1,40 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size: 12px;
+	color: #597380;
+	line-height: 140%;
+	background-color: #AFC4CF;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+#banner {
+	background-image: url(../images/f_banner_w.jpg);
+	background-repeat: repeat-x;
+	float: none;
+	clear: both;
+	height: 73px;
+}
+
+#content {
+	padding: 32px 60px 40px 80px;
+}
+
+.meta {
+	font-size: 12px;
+	background-color: #8FA4AF;
+	padding: 8px;
+	clear: both;
+	float: none;
+}
